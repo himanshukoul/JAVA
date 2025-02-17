@@ -1,3 +1,3 @@
 # JAVA
-DSA, DAA, CN
+DSA, DAA, CN , CRYPTO
 Conceptually solved from scratch , giving detailed outputs.
